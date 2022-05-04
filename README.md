@@ -12,8 +12,8 @@
 
 ---
 ### :man_technologist: About Me : I am a Programmer and a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: I am a hands-on learner, hence prefer learning new technologies through development.
+- :zap: In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
