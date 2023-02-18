@@ -11,7 +11,7 @@
 </div>
 
 ---
-### :man_technologist: About Me : I am a Programmer and a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+### :man_technologist: About Me : I am a Programmer and a Salesforce Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :seedling: I am a hands-on learner, hence prefer learning new technologies through development.
 - :zap: In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
 ---
